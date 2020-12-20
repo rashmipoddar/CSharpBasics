@@ -7,11 +7,10 @@ namespace CSharpBasics
         static void Main(string[] args)
         {
             // String Basics
-            StringBasics.run();
+            //StringBasics.run();
+
+            //Number Basics 
+            NumberBasics.runNumberBasics();
         }
-
-        
-
-        
     }
 }
